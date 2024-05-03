@@ -1,0 +1,23 @@
+body {
+    background-color: #FF3131;
+    color: #fff;
+    margin: 0;
+    font-family: Arial, sans-serif; /* Specify a fallback font */
+}
+
+header {
+    background-color: #FF0030; /* Darker color for the header background */
+    padding: 20px 0; /* Add padding to the top and bottom of the header */
+}
+
+.header-container {
+    max-width: 900px;
+    max-height: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.main-content {
+    /* Add styles for your main content here */
+}
